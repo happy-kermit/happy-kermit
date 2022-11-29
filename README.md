@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm s1lasno</h1>
 
-### *I use Arch btw*
+### *I use arch btw*
 - 🌱 I’m currently learning **Rust, Go**
 - 💬 Ask me about **react, nextjs, JS**
 - 📫 How to reach me **@s1lasno** on Twitter
